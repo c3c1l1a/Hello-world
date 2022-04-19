@@ -12,10 +12,18 @@
 To get a local copy up and running follow these simple example steps.
 
 ### Setup
-- Clone this repo
+If you have git installed you can clone the code to your machine, or download a ZIP of all the files directly.
+
+[Download the ZIP from this location](https://github.com/c3c1l1a/Hello-world/archive/refs/heads/master.zip), or run the following [git](https://git-scm.com/downloads) command to clone the files to your machine:
+
+```bash
+git clone https://github.com/c3c1l1a/Hello-world.git
+```
 
 ### Usage
-- Navigate into the cloned repo and open index.html with a browser of your choice
+- Once the files are on your machine, open the _Hello-world_ folder in [Visual Studio Code](https://code.visualstudio.com/).
+
+- With the files open in Visual Studio Code, press the **Go Live** button at the bottom of the window to launch the files with [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer).
 
 ## Authors
 
@@ -29,7 +37,7 @@ To get a local copy up and running follow these simple example steps.
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/c3c1l1a/Hello-world/issues).
 
 ## Show your support
 
